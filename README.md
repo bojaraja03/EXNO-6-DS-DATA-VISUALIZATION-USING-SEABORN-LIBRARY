@@ -25,10 +25,10 @@ import matplotlib.pyplot as plt
 df=pd.read_csv("titanic_dataset.csv")
 df.head()
 ```
-```
+
 <img width="944" height="169" alt="image" src="https://github.com/user-attachments/assets/de29f82f-3cb8-4f11-9310-c393fc82e46e" />
 
-```
+
 ```
 x=[1,2,3,4,5]
 y=[3,6,2,7,1]
